@@ -1,0 +1,14 @@
+C:\Users\Click\Desktop\c#\color\color\bin\Debug\net8.0\color.exe
+C:\Users\Click\Desktop\c#\color\color\bin\Debug\net8.0\color.deps.json
+C:\Users\Click\Desktop\c#\color\color\bin\Debug\net8.0\color.runtimeconfig.json
+C:\Users\Click\Desktop\c#\color\color\bin\Debug\net8.0\color.dll
+C:\Users\Click\Desktop\c#\color\color\bin\Debug\net8.0\color.pdb
+C:\Users\Click\Desktop\c#\color\color\obj\Debug\net8.0\color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Click\Desktop\c#\color\color\obj\Debug\net8.0\color.AssemblyInfoInputs.cache
+C:\Users\Click\Desktop\c#\color\color\obj\Debug\net8.0\color.AssemblyInfo.cs
+C:\Users\Click\Desktop\c#\color\color\obj\Debug\net8.0\color.csproj.CoreCompileInputs.cache
+C:\Users\Click\Desktop\c#\color\color\obj\Debug\net8.0\color.dll
+C:\Users\Click\Desktop\c#\color\color\obj\Debug\net8.0\refint\color.dll
+C:\Users\Click\Desktop\c#\color\color\obj\Debug\net8.0\color.pdb
+C:\Users\Click\Desktop\c#\color\color\obj\Debug\net8.0\color.genruntimeconfig.cache
+C:\Users\Click\Desktop\c#\color\color\obj\Debug\net8.0\ref\color.dll
